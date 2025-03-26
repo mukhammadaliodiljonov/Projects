@@ -1,0 +1,18 @@
+
+                                                  Student Database Application
+Scenario: You are a Database Administrator for a university of and need to create an application to manage student enrollment and balance
+
+Your application is doing the following:
+    * Ask user how many new students will be added to the database
+    * The user should be prompted to enter the name and year of each student
+    * Student should have 5-digit unique id , with the first number being their grade level
+    * A student can enroll in the following courses
+        History 101
+        Mathematics 101
+        English 101
+        Chemistry 101
+        Computer Science 101
+    * each course costs $600 to enroll
+    * The student should be able to see their balance and pay the tuition
+    * To see the status of the student , we should see their name, ID, courses enrolled , and balance
+
